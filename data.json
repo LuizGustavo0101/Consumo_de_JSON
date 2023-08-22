@@ -1,0 +1,25 @@
+{
+    "alunos": [
+        {
+        "id": 1,
+        "nome": "João Silva",
+        "idade": 18,
+        "nota": 9.5,
+        "disciplinas": ["Matemática", "Português", "Ciências"]
+        },
+        {
+        "id": 2,
+        "nome": "Maria Santos",
+        "idade": 17,
+        "nota": 8.7,
+        "disciplinas": ["História", "Geografia", "Inglês"]
+        },
+        {
+        "id": 3,
+        "nome": "Pedro Almeida",
+        "idade": 16,
+        "nota": 7.8,
+        "disciplinas": ["Física", "Química", "Educação Física"]
+        }
+    ]
+}
